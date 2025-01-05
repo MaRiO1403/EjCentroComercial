@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">miProyecto4</string>
+
+    <string name="nombre_tienda1">ZARA</string>
+    <string name="descripcion_tienda1">
+        Zara es una tienda de moda que ofrece ropa moderna y accesible.
+        Sus productos incluyen prendas para hombres, mujeres y niños.
+        También cuentan con accesorios y calzado.
+    </string>
+
+    <string name="nombre_tienda2">PullAndBear</string>
+    <string name="descripcion_tienda2">
+        PullAndBear es una tienda de moda juvenil que ofrece ropa de estilo casual y urbano.
+        Sus productos incluyen camisetas, pantalones, chaquetas, calzado y accesorios.
+        Es una marca que siempre sigue las últimas tendencias de moda.
+    </string>
+
+    <string name="nombre_tienda3">Springfield</string>
+    <string name="descripcion_tienda3">
+        Springfield es una marca de moda que ofrece ropa para hombres y mujeres.
+        Su estilo combina lo casual y lo elegante, con prendas cómodas para el día a día.
+        También cuentan con accesorios, calzado y una línea de ropa sostenible.
+    </string>
+
+    <string name="nombre_tienda4">Stradivarius</string>
+    <string name="descripcion_tienda4">
+        Stradivarius es una marca de moda femenina que ofrece ropa moderna y elegante.
+        Sus colecciones incluyen vestidos, pantalones, camisas, y una gran variedad de accesorios.
+        Además, cuentan con una línea de calzado y productos de temporada.
+    </string>
+
+</resources>
